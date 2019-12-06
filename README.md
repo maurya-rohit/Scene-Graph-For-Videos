@@ -1,6 +1,6 @@
 # Scene-Graph-For-Videos
 
-Our KERN model is based on the KERN(insert link) but we have modified the code for our custom image. Look into our blog post for detailed changes. Our Caption_Model is based on the text-summarization-tensorflow(insert link).
+Our KERN model is based on the [KERN](https://github.com/yuweihao/KERNk) but we have modified the code for our custom image. Look into our blog post for detailed changes. Our Caption_Model is based on the text-summarization-tensorflow(insert link).
 
 # SetUp
 First Setup the Kern according to the original website. 
