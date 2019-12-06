@@ -12,8 +12,10 @@ Run Kern in sgdet mode by running the eval_kern_sgdet.sh file.
 After getting .pkl files run the scene_grpah_aggregator.py file to get common scene grpah for each video.
 
 Run the Caption_Model for training by running 
- $ python train.py
+
+ ```$ python train.py```
 
 For Testing 
-$ python test.py
+
+```$ python test.py```
 
