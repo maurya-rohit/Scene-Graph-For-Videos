@@ -5,7 +5,7 @@ Our KERN model is based on the [KERN](https://github.com/yuweihao/KERNk) but we 
 # SetUp
 First Setup the Kern according to the original website. 
 
-Download the dataset from charaders website. Run the charaders_datamaker.py files to get the key frmaes from the videos.
+Download the dataset from [charaders](http://vuchallenge.org/charades.html). Run the charaders_datamaker.py files to get the key frmaes from the videos.
 
 Run Kern in sgdet mode by running the eval_kern_sgdet.sh file.
 
