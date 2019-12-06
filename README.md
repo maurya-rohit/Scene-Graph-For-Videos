@@ -9,7 +9,7 @@ Download the dataset from charaders website.Run the charaders_datamaker.py files
 
 Run Kern in sgdet mode by running the eval_kern_sgdet.sh file.
 
-After getting .kpl files run the scene_grpah_aggregator.py file to get common scene grpah for each video.
+After getting .pkl files run the scene_grpah_aggregator.py file to get common scene grpah for each video.
 
 Run the Caption_Model for training by running 
  $ python train.py
