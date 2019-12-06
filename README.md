@@ -1,9 +1,9 @@
 # Scene-Graph-For-Videos
 
-Our KERN model is based on the [KERN](https://github.com/yuweihao/KERNk) but we have modified the code for our custom image. Look into our blog post for detailed changes. Our Caption_Model is based on the [text-summarization-tensorflow](https://github.com/dongjun-Lee/text-summarization-tensorflow).
+Our KERN model is based on the [KERN](https://github.com/yuweihao/KERN) but we have modified the code for our custom image. Look into our blog post for detailed changes. Our Caption_Model is based on the [text-summarization-tensorflow](https://github.com/dongjun-Lee/text-summarization-tensorflow).
 
 # SetUp
-- Setup KERN following intructions present here. It has to be accomodated to run on custom images(Mentioned in blog).
+- Setup KERN following intructions [here](https://github.com/yuweihao/KERN). It has to be accomodated to run on custom images(Mentioned in blog).
 - Download the dataset from [charades](http://vuchallenge.org/charades.html) & run the charaders_datamaker.py files to get the key frmaes from the videos.
 
 - This frames have to be placed inside the data directory of KERN.
