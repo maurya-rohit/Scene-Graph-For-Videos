@@ -5,7 +5,7 @@ Our KERN model is based on the KERN(insert link) but we have modified the code f
 # SetUp
 First Setup the Kern according to the original website. 
 
-Download the dataset from charaders website.Run the charaders_datamaker.py files to get the key frmaes from the videos.
+Download the dataset from charaders website. Run the charaders_datamaker.py files to get the key frmaes from the videos.
 
 Run Kern in sgdet mode by running the eval_kern_sgdet.sh file.
 
